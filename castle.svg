@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no' ?>
+<svg width='500' height='500' xmlns='http://www.w3.org/2000/svg'>
+<path d='M80,450 V320 H100 V300 H120 V320 H140 V300 H160 V320 H180 V300 H200 V320 H220 V300 H240 V320 H260 V300 H280 V320 H300 V300 H320 V320 H340 V300 H360 V320 H380 V300 H400 V320 H420 V450 Z' fill='grey' stroke='black' stroke-width='2' /><path d= 'M15,15H65 M15,45 H65 M40,15 V45M65,15H115 M65,45 H115 M90,15 V45M115,15H165 M115,45 H165 M140,15 V45M165,15H215 M165,45 H215 M190,15 V45M215,15H265 M215,45 H265 M240,15 V45M265,15' stroke='red' stroke-width='5' />
+<path d=' M300,100L300,100 315,100 L315,100 315,100L315,85 330,85 L330,85 330,85L330,70 345,70 L345,70 345,70L345,55 360,55 L360,55 360,55L360,40 375,40 L375,40 375,40L375,25 390,25 L390,25 390,25L390,10 405,10 L405,10 405,10V115H300 Z' fill='lightblue' stroke='black' stroke-width='5' />
+<path d='M80,450V250 L113,225V200H14 V225 L47,250 V450 Z' stroke='black' stroke-width='2' fill='grey' />
+<path d='M450,450V250 L483,225V200H384 V225 L417,250 V450 Z' stroke='black' stroke-width='2' fill='grey' />
+<rect x='225' y='370' width='50' height='80' />
+<rect x='110' y='350' width='40' height='40' fill='white' stroke = 'black' stroke-width='1'/>
+<line x1='130' y1='350' x2='130' y2='390' stroke='black' stroke-width='1'/>
+<line x1='110' y1='370' x2='150' y2='370' stroke='black' stroke-width='1'/>
+<rect x='340' y='350' width='40' height='40' fill='white' stroke = 'black' stroke-width='1'/>
+<line x1='360' y1='350' x2='360' y2='390' stroke='black' stroke-width='1'/>
+<line x1='340' y1='370' x2='380' y2='370' stroke='black' stroke-width='1'/>
+</svg>
